@@ -10,3 +10,6 @@ This game is built against CocosSharp 1.5.0.
 Authors
 -------
 Victor Chelaru
+
+
+Add comment in Chinese

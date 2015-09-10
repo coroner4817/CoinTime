@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="CoinTime\CoinTime.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoinTimeShared\Entities\Button.cs">
+    <Files>
+      <File FileName="CoinTimeShared\Scenes\LevelSelectScene.cs" Line="1" Column="1" />
+      <File FileName="CoinTimeShared\Entities\Button.cs" Line="33" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,5 @@
+D:\Android Game\CoinTime\CoinTime\obj\Debug\assemblies\CoinTime.dll
+D:\Android Game\CoinTime\CoinTime\obj\Debug\assemblies\box2d.dll
+D:\Android Game\CoinTime\CoinTime\obj\Debug\assemblies\CocosSharp.dll
+D:\Android Game\CoinTime\CoinTime\obj\Debug\assemblies\Lidgren.Network.dll
+D:\Android Game\CoinTime\CoinTime\obj\Debug\assemblies\MonoGame.Framework.dll
